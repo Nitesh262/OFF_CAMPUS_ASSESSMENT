@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mr.Arun's Journalism Masterclass</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+
+    <div class="container1">
+<img src="journalist.jpg" alt="images" height="100%" width="100%">
+    </div>
+
+    <div class="container2">
+      <h1 id="heading">Welcome to Mr. Arun's Journalism Masterclass</h1>
+      <p id="paragraph">Unlock the secrets of journalism from a seasoned expert</p>
+      <div class="container3">
+        <h1>Enroll Now</h1>
+        <form action="#" method="post">
+          <input type="text" name="name" placeholder="Your Name">
+          <input type="email" name="email" placeholder="Your Email">
+          <input type="submit" value="Enroll">
+        </form>
+      </div>
+    </div>
+
+  </header>
+
+  <section id="section1">
+    <h2>About Mr. Arun</h2>
+    <p>Mr. Arun is a retired journalist with over 30 years of experience in the field. He has covered major events,
+      conducted groundbreaking interviews, and won numerous awards for his reporting.</p>
+    <p>Now, he's ready to share his knowledge and insights with aspiring journalists through an exclusive online
+      masterclass.</p>
+    <h2 id="heading1">About the Course</h2>
+    <p>Mr. Arun's 2-week online journalism course is designed to provide practical insights and hands-on experience
+      to aspiring journalists.</p>
+    <p>Learn the fundamentals of news writing, investigative journalism, ethics, and more from a seasoned industry
+      expert.</p>
+    <button id="button">Enroll Now</button>
+  </section>
+
+  <footer>
+    <div class="section2">
+      <p>&copy; 2024 Mr. Arun's Journalism Masterclass. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
